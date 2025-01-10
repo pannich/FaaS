@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: FaaS_Project_Cards
+Version: 0.1.0
+Requires-Dist: pyzmq
+Requires-Dist: redis
+Requires-Dist: dill
+Requires-Dist: uvicorn
+Requires-Dist: requests
+Requires-Dist: pytest
