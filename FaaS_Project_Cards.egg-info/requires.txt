@@ -1,6 +1,0 @@
-pyzmq
-redis
-dill
-uvicorn
-requests
-pytest

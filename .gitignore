@@ -1,0 +1,17 @@
+# Byte-compiled / cached files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# pytest cache
+.pytest_cache/
+
+# build files
+build/
+FaaS_Project_Cards.egg-info
+
+# Virtual environments
+env/
+venv/
+*.env
+*.venv
